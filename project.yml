@@ -1,5 +1,6 @@
 name: SpectraWallet
 options:
+  projectFormat: xcode15_3
   bundleIdPrefix: com.renz
   deploymentTarget:
     iOS: '16.0'
